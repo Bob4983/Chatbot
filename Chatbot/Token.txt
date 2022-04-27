@@ -1,0 +1,3 @@
+# .env
+DISCORD_TOKEN={ODMzMzI2MjcyOTc2OTEyMzk0.YHwtkQ.hylpm7Uvxk8MjrwX884CNoeE-wE}
+DISCORD_GUILD={Bob606}
